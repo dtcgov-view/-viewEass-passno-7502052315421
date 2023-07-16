@@ -242,12 +242,12 @@ b{
     justify-content: center;
     
     width: 50%;
-    height: 97px;
+    align-items: center;
 }
 .qrimg{
     padding: 8px;
-    width: 80px;
-    height: 80px;
+    width: 65px;
+    height: 65px;
     
 
 }

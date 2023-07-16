@@ -113,7 +113,7 @@ header{
     justify-content: center;
     align-items: center;
     height: 10vh;
-    border: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
 }
 
 .imegcont{
